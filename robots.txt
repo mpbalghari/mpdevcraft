@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mpdevcraft.shop/sitemap.xml

@@ -81,7 +81,7 @@ Please change the parent <Route path="${_}"> to <Route path="${_==="/"?"*":`${_}
                 before:w-0 before:bg-indigo-400 before:transition-all before:duration-300
                 before:-translate-x-1/2 hover:before:w-full
                 ${s?"text-white before:w-full":"text-white/70 hover:text-white"}
-              `,children:"Blogs"}),x.jsx(fe,{to:"/theshoeshouse",className:({isActive:s})=>`
+              `,children:"Blogs"}),x.jsx(fe,{to:"https://leafloop.web.app/",className:({isActive:s})=>`
                 relative px-1 py-2 text-sm font-medium
                 before:absolute before:bottom-0 before:left-1/2 before:h-[2px]
                 before:w-0 before:bg-indigo-400 before:transition-all before:duration-300
